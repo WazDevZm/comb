@@ -1,0 +1,421 @@
+{
+ "staff": [
+  {
+   "name": "Alfayo Katebe",
+   "department": "Technology"
+  },
+  {
+   "name": "Aubrey Zulu",
+   "department": "Technology"
+  },
+  {
+   "name": "Brian Mukuka",
+   "department": "Technology"
+  },
+  {
+   "name": "Chawanzi Ng'uni",
+   "department": "Technology"
+  },
+  {
+   "name": "Kasiku Kayuma",
+   "department": "Innovation"
+  },
+  {
+   "name": "Naleli Ngoma",
+   "department": "Co-Working"
+  },
+  {
+   "name": "Mary Kanawila",
+   "department": "Co-Working"
+  },
+  {
+   "name": "Daliso Lungu",
+   "department": "Growth and Partnerships"
+  },
+  {
+   "name": "Roy Muttendango",
+   "department": "Growth and Partnerships"
+  },
+  {
+   "name": "Natasha Luputa",
+   "department": "Marketing and Comms"
+  },
+  {
+   "name": "Cynthia Kunda",
+   "department": "Innovation"
+  },
+  {
+   "name": "Tilyenji Mwanza",
+   "department": "Marketing and Comms"
+  },
+  {
+   "name": "Dorus Silwizya",
+   "department": "Innovation"
+  },
+  {
+   "name": "Muchafara Shumba",
+   "department": "Marketing and Comms"
+  },
+  {
+   "name": "Muyanje Likumba",
+   "department": "Data and AI"
+  },
+  {
+   "name": "Lute Chongo",
+   "department": "Technology"
+  },
+  {
+   "name": "Pukuta Mwanza",
+   "department": "Technology"
+  },
+  {
+   "name": "Lukonga Lindunda",
+   "department": "Executive Directors",
+   "role": "director"
+  },
+  {
+   "name": "Mapalo Lukashi",
+   "department": "Data and AI"
+  },
+  {
+   "name": "Mariah Tembo",
+   "department": "Entrepreneurship"
+  },
+  {
+   "name": "Maumo Mubila",
+   "department": "Entrepreneurship"
+  },
+  {
+   "name": "Misozi Chisenga",
+   "department": "Entrepreneurship"
+  },
+  {
+   "name": "Mulemwa Kusemwa",
+   "department": "Entrepreneurship"
+  },
+  {
+   "name": "Mulubwa Chungu",
+   "department": "Technology"
+  },
+  {
+   "name": "Sarah Mwendwa",
+   "department": "Technology"
+  },
+  {
+   "name": "Simunza Muyangana",
+   "department": "Executive Directors",
+   "role": "director"
+  },
+  {
+   "name": "Seiko Mwenya",
+   "department": "Finance and Ops",
+   "role": "finance"
+  }
+ ],
+ "departments": [
+  "Entrepreneurship",
+  "Technology",
+  "Marketing and Comms",
+  "Innovation",
+  "Co-Working",
+  "Finance and Ops",
+  "Executive Directors",
+  "Data and AI",
+  "Growth and Partnerships"
+ ],
+ "projects": [
+  "SC WiT",
+  "Barrick Lumwana",
+  "HIVOS",
+  "Youth Team up",
+  "GreenTech4CE",
+  "First Capital Bank",
+  "MLFC",
+  "Panuka",
+  "Sirius",
+  "Zamseed",
+  "Stanbic",
+  "HCD Corporate",
+  "Zamtel",
+  "Lundazi Green Village",
+  "GIZ Fit For Mentorship",
+  "Double Feathers UNDP",
+  "Mentor Pitch",
+  "Aiccra",
+  "ZANACO",
+  "Farm Craft",
+  "Internews",
+  "GIZ OIP",
+  "USAID Edge",
+  "Digilogic",
+  "Hoppers",
+  "Koloso",
+  "Aiccra 2.0"
+ ],
+ "legacy": [
+  {
+   "requester": "Mulemwa Kusemwa",
+   "department": "Entrepreneurship",
+   "title": "Pitch Day Food and drinks",
+   "project": "First Capital Bank",
+   "project_as_typed": "First Capital Bank",
+   "amount_as_typed": "k14,300",
+   "currency": "ZMW",
+   "amount": 14300.0,
+   "date_needed": "2026-03-02",
+   "evidence_note": "quotes will be added to clickup"
+  },
+  {
+   "requester": "Mariah Tembo",
+   "department": "Entrepreneurship",
+   "title": "Good Leaf Investments",
+   "project": "SC WiT",
+   "project_as_typed": "SC WIT",
+   "amount_as_typed": "$2000",
+   "currency": "USD",
+   "amount": 2000.0,
+   "date_needed": "2026-03-18",
+   "evidence_note": "Goodleaf Dollar Account Confirmation Letter.pdf"
+  },
+  {
+   "requester": "Mariah Tembo",
+   "department": "Entrepreneurship",
+   "title": "Biogreen Technology",
+   "project": "SC WiT",
+   "project_as_typed": "SC- WIT",
+   "amount_as_typed": "$3000",
+   "currency": "USD",
+   "amount": 3000.0,
+   "date_needed": "2026-03-18",
+   "evidence_note": "Biogreen Technology.jpeg"
+  },
+  {
+   "requester": "Mariah Tembo",
+   "department": "Entrepreneurship",
+   "title": "Kulanda Publishing House",
+   "project": "SC WiT",
+   "project_as_typed": "SC WIT",
+   "amount_as_typed": "$1000",
+   "currency": "USD",
+   "amount": 1000.0,
+   "date_needed": "2026-03-18",
+   "evidence_note": "KULANDA PUBLISHING.pdf"
+  },
+  {
+   "requester": "Mariah Tembo",
+   "department": "Entrepreneurship",
+   "title": "Corelink Consulting",
+   "project": "SC WiT",
+   "project_as_typed": "SC WIT",
+   "amount_as_typed": "$1500",
+   "currency": "USD",
+   "amount": 1500.0,
+   "date_needed": "2026-03-18",
+   "evidence_note": "Corelink Consulting Limited- Confirmation Letter for Bank Details.pdf"
+  },
+  {
+   "requester": "Mariah Tembo",
+   "department": "Entrepreneurship",
+   "title": "Website and domain hosting",
+   "project": "SC WiT",
+   "project_as_typed": "SC WIT",
+   "amount_as_typed": "$375",
+   "currency": "USD",
+   "amount": 375.0,
+   "date_needed": "2026-03-11",
+   "evidence_note": "quotes will be added to clickup"
+  },
+  {
+   "requester": "Mariah Tembo",
+   "department": "Entrepreneurship",
+   "title": "Pre- Launch Marketing Actvities",
+   "project": "SC WiT",
+   "project_as_typed": "SC WIT",
+   "amount_as_typed": "$2500",
+   "currency": "USD",
+   "amount": 2500.0,
+   "date_needed": "2026-03-11",
+   "evidence_note": "quotes will be added to clickup"
+  },
+  {
+   "requester": "Misozi Chisenga",
+   "department": "Entrepreneurship",
+   "title": "Office Space Rent",
+   "project": "Barrick Lumwana",
+   "project_as_typed": "Lumwana ",
+   "amount_as_typed": "k3000",
+   "currency": "ZMW",
+   "amount": 3000.0,
+   "date_needed": "2026-03-11",
+   "evidence_note": "quotes will be added to clickup"
+  },
+  {
+   "requester": "Mulemwa Kusemwa",
+   "department": "Entrepreneurship",
+   "title": "Social Media Boosting",
+   "project": "GreenTech4CE",
+   "project_as_typed": "GreenTech4Ce",
+   "amount_as_typed": "EUR558",
+   "currency": "EUR",
+   "amount": 558.0,
+   "date_needed": "2026-03-10",
+   "evidence_note": "quotes will be added to clickup"
+  },
+  {
+   "requester": "Mulemwa Kusemwa",
+   "department": "Entrepreneurship",
+   "title": "Traditional Media Placements",
+   "project": "GreenTech4CE",
+   "project_as_typed": "GreenTech4Ce",
+   "amount_as_typed": "EUR420",
+   "currency": "EUR",
+   "amount": 420.0,
+   "date_needed": "2026-03-10",
+   "evidence_note": "quotes will be added to clickup"
+  },
+  {
+   "requester": "Mulemwa Kusemwa",
+   "department": "Entrepreneurship",
+   "title": "Print Branded backdrops x2",
+   "project": "GreenTech4CE",
+   "project_as_typed": "GreenTech4Ce",
+   "amount_as_typed": "EUR520",
+   "currency": "EUR",
+   "amount": 520.0,
+   "date_needed": "2026-03-10",
+   "evidence_note": "quotes will be added to clickup"
+  },
+  {
+   "requester": "Mulemwa Kusemwa",
+   "department": "Entrepreneurship",
+   "title": "Print Pull banners x4",
+   "project": "GreenTech4CE",
+   "project_as_typed": "GreenTech4Ce",
+   "amount_as_typed": "EUR276",
+   "currency": "EUR",
+   "amount": 276.0,
+   "date_needed": "2026-03-10",
+   "evidence_note": "quotes will be added to clickup"
+  },
+  {
+   "requester": "Mulemwa Kusemwa",
+   "department": "Entrepreneurship",
+   "title": "Print 6 meters Tear Drops Flags x2",
+   "project": "GreenTech4CE",
+   "project_as_typed": "GreenTech4Ce",
+   "amount_as_typed": "EUR126",
+   "currency": "EUR",
+   "amount": 126.0,
+   "date_needed": "2026-03-10",
+   "evidence_note": "quotes will be added to clickup"
+  },
+  {
+   "requester": "Mulemwa Kusemwa",
+   "department": "Entrepreneurship",
+   "title": "Print Branded photo frame",
+   "project": "GreenTech4CE",
+   "project_as_typed": "GreenTech4Ce",
+   "amount_as_typed": "EUR50",
+   "currency": "EUR",
+   "amount": 50.0,
+   "date_needed": "2026-03-10",
+   "evidence_note": "quotes will be added to clickup"
+  },
+  {
+   "requester": "Mulemwa Kusemwa",
+   "department": "Entrepreneurship",
+   "title": "Print Branded T-shirts for programme facilitators",
+   "project": "GreenTech4CE",
+   "project_as_typed": "GreenTech4Ce",
+   "amount_as_typed": "EUR130",
+   "currency": "EUR",
+   "amount": 130.0,
+   "date_needed": "2026-03-10",
+   "evidence_note": "quotes will be added to clickup"
+  },
+  {
+   "requester": "Mulemwa Kusemwa",
+   "department": "Entrepreneurship",
+   "title": "Venue Hire for 60 People for 2- days per location Design Sprint Roadshow Sessions in kitwe, ndola and Lusaka",
+   "project": "GreenTech4CE",
+   "project_as_typed": "GreenTech4Ce",
+   "amount_as_typed": "EUR13,680",
+   "currency": "EUR",
+   "amount": 13680.0,
+   "date_needed": "2026-03-11",
+   "evidence_note": "quotes will be added to clickup"
+  },
+  {
+   "requester": "Mulemwa Kusemwa",
+   "department": "Entrepreneurship",
+   "title": "Vehicle hire.",
+   "project": "GreenTech4CE",
+   "project_as_typed": "GreenTech4Ce",
+   "amount_as_typed": "EUR651",
+   "currency": "EUR",
+   "amount": 651.0,
+   "date_needed": "2026-03-11",
+   "evidence_note": "quotes will be added to clickup"
+  },
+  {
+   "requester": "Mulemwa Kusemwa",
+   "department": "Entrepreneurship",
+   "title": "Stationery",
+   "project": "GreenTech4CE",
+   "project_as_typed": "GreenTech4Ce",
+   "amount_as_typed": "EUR 200",
+   "currency": "EUR",
+   "amount": 200.0,
+   "date_needed": "2026-03-11",
+   "evidence_note": "quotes will be added to clickup"
+  },
+  {
+   "requester": "Mulemwa Kusemwa",
+   "department": "Entrepreneurship",
+   "title": "Accomadation for staff(x3)",
+   "project": "GreenTech4CE",
+   "project_as_typed": "GreenTech4Ce",
+   "amount_as_typed": "EUR1440",
+   "currency": "EUR",
+   "amount": 1440.0,
+   "date_needed": "2026-03-11",
+   "evidence_note": "quotes will be added to clickup"
+  },
+  {
+   "requester": "Mulemwa Kusemwa",
+   "department": "Entrepreneurship",
+   "title": "Fuel costs for travel for Design Sprint Roadshows in Ndola and Kitwe.",
+   "project": "GreenTech4CE",
+   "project_as_typed": "GreenTech4Ce",
+   "amount_as_typed": "EUR196",
+   "currency": "EUR",
+   "amount": 196.0,
+   "date_needed": "2026-03-19",
+   "evidence_note": "quotes will be added to clickup"
+  },
+  {
+   "requester": "Mulemwa Kusemwa",
+   "department": "Entrepreneurship",
+   "title": "Per diem for facilitators (x3)",
+   "project": "GreenTech4CE",
+   "project_as_typed": "GreenTech4Ce",
+   "amount_as_typed": "EUR 720",
+   "currency": "EUR",
+   "amount": 720.0,
+   "date_needed": "2026-03-19",
+   "evidence_note": "quotes will be added to clickup"
+  },
+  {
+   "requester": "Mulemwa Kusemwa",
+   "department": "Entrepreneurship",
+   "title": "Purchase of camera lenses for photography during events",
+   "project": "GreenTech4CE",
+   "project_as_typed": "GreenTech4Ce",
+   "amount_as_typed": "EUR 1852",
+   "currency": "EUR",
+   "amount": 1852.0,
+   "date_needed": "2026-03-11",
+   "evidence_note": "quotes will be added to clickup"
+  }
+ ]
+}

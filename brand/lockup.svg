@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 72" role="img" aria-label="Comb, BongoHive finance">
+  <g transform="translate(4 4)">
+    <path d="M54.5 19 32 6 9.5 19v26L32 58l22.5-13" fill="none" stroke="#2A1F14" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M32 20.5 42 26.3v11.4L32 43.5 22 37.7V26.3z" fill="#E8A317"/>
+  </g>
+  <text x="76" y="46" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700" letter-spacing="-1" fill="#2A1F14">comb</text>
+  <text x="78" y="63" font-family="Helvetica, Arial, sans-serif" font-size="10.5" letter-spacing="1.6" fill="#7A6A55">BONGOHIVE FINANCE</text>
+</svg>
